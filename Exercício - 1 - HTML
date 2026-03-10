@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Aula1 - Exercicio - 1 - HTML</title>
+</head>
+<body>
+
+    <h1> Exercico 1</h1>
+
+    <hr>
+
+    <p>Exercico da aula 1 guloso e HTMLZADO</p>
+    
+    <p>Paragrafo 2, estou sem ideias</p>
+</body>
+</html>
